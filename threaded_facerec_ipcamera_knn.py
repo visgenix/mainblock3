@@ -191,7 +191,7 @@ class WebcamVideoStream:
 
 
 def Train_Recognize(thresh):
-    repo_path = '/home/srec/Desktop/FaceRPI/mb_device2'
+    repo_path = '/home/srec/Desktop/FaceRPI/mb_device3'
     check_and_pull_repo(repo_path)
     repo_path = '/home/srec/Desktop/FaceRPI/model_assets'
     check_and_pull_repo(repo_path)
